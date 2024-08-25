@@ -1,0 +1,1 @@
+# cosmic-emoji-picker-applet
